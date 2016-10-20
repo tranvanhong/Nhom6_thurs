@@ -131,15 +131,19 @@
             return false;
         }
         if (document.getElementById('rdv').checked) {
+    
         	 window.open("DoanVien_ThongTinCaNhan.jsp"); 
         }
         if (document.getElementById('rdt').checked) {
+        	
        	 window.open("DoanTruong_DSHoatDong.jsp");
        }
         if (document.getElementById('rdk').checked) {
+        	
           	 window.open("DoanKhoa_DSHoatDong.jsp");
           }
         if (document.getElementById('ra').checked) {
+        	
          	 window.open("Admin_DSHoatDong.jsp");
          }
        

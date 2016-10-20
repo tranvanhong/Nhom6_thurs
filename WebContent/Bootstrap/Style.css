@@ -368,7 +368,7 @@ img {
     background: #87CEFA;
 }
 .topnav {
-    /*background: url("https://drive.google.com/file/d/0B2L0-j9jW-78WmZsWHAxMTJvcWM/view") top no-repeat;*/
+    /*background: url("C:/Users/QUANPC/Downloads/Bootstrap/Bootstrap/Images/bg_top2_repeat.jpg") top no-repeat;*/
    /*background-color: darkblue;
    color: white;*/
 }
@@ -382,6 +382,9 @@ img {
     /*bo tròn 4 gốc*/
     border-radius: 5px;
     -moz-border-radius:5px;  
+}
+.boxshadow{
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 #thongtin{
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
@@ -504,6 +507,180 @@ menu, ol, ul, li {
 /* When the input field gets focus, change its width to 100% */
 input[type=text]:focus {
     width: 100%;
+}
+.row1 {
+    background: #FFFFFF;
+    padding: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.row4 {
+    padding: 5px;
+}
+.row2 {
+    background: #F7F9FA;
+    padding: 5px;
+}
+.gens {
+    font: 8pt Tahoma;
+}
+
+.cat, .scat h4 {
+    font: bold 8pt Tahoma;
+}
+.cat, .scat h3 {
+    font: bold 5pt Tahoma;
+}
+.cat h3{
+	font: bold 9pt Tahoma;
+}
+.cat, th {
+    background: #0065B5;
+    color: #FFFFFF;
+    padding: 5px 8px 5px 10px;
+    white-space: nowrap;
+}
+table[Attributes Style] {
+    width: 100%;
+    border-spacing: 1px;
+}
+
+table {
+    display: table;
+    border-collapse: separate;
+    border-spacing: 2px;
+    border-color: grey;
+    border-bottom: 
+}
+table tr{
+	    border-bottom: 1px solid #ddd;
+}
+.topics {
+    width: 450px;
+}
+.rowdesc {
+    background: #DEE7EF;
+    font: bold 8pt Tahoma;
+    padding: 3px 5px;
+    white-space: nowrap;
+}
+td, th {
+    display: table-cell;
+    vertical-align: inherit;
+}
+.tablebg {
+    background: #BCCBD8;
+}
+.a-right {
+    float: right;
+}
+.pagination {
+    font: 8pt Tahoma;
+    padding: 0px;
+    margin: 6px 0px;
+}
+.pagination span a:hover, li.pagination span a:hover {
+    background: #DEE7EF;
+    text-decoration: none;
+}
+a:link, a:active, a:visited {
+    color: #0065B5;
+    text-decoration: none;
+}
+.a-left {
+    float: left;
+}
+.topicbutton {
+    background: #1471BA;
+    font: bold 8pt Tahoma;
+    padding: 5px;
+    margin: 2px 2px 2px 0px;
+    border: 2px solid #A5CBEF;
+    display: block;
+}
+
+.topicbutton a:hover {
+    color: #A5CBEF;
+    text-decoration: none;
+}
+
+.topicbutton a:link, .topicbutton a:active, .topicbutton a:visited {
+    color: #FFFFFF;
+}
+.i-newtopic {
+    background: url('http://forum.ketqua.net/styles/nicesimple/theme/images/default/icons/i-newtopic.png') left center no-repeat;
+    padding: 5px 5px 5px 18px;
+}
+tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+form {
+    padding: 0px;
+    margin: 0px;
+}
+.gens {
+    font: 8pt Tahoma;
+}
+select, option {
+    font: 8pt Tahoma;
+}
+.formbutton {
+    background: #FFFFFF;
+    color: #333333;
+    font: bold 8pt Tahoma;
+    padding: 1px 5px;
+    margin: 0px;
+    border: 1px solid #A5CBEF;
+    cursor: pointer;
+}
+input {
+    padding: 2px;
+    border: 1px solid #BCCBD8;
+}
+#column_left {
+    width: 650px;
+    padding-right: 20px;
+}
+ h1.title, h1.gcd-title {
+    font: normal 1.8em Tahoma, Geneva, sans-serif;
+    color: #9c2c00;
+}
+.comments-central-section ul li {
+    margin-bottom: 12px;
+    padding-bottom: 12px;
+    border-bottom: 1px dotted #CCC;
+}
+.p_cmau {
+    color: #333;
+}
+.p_cmau span.cm_au {
+    font-size: 14px;
+    font-weight: bold;
+    color: #990000;
+}
+.p_cmau strong {
+    font-size: 15px;
+    color: #000000;
+}
+.in_p {
+    padding-top: 1px;
+    font-size: 11px;
+    color: #666;
+}
+.said {
+    margin: 10px 0 10px 10px;
+    padding-left: 8px;
+    border-left: 2px solid #eee;
+    font-size: 14px;
+    color: #333333;
+    line-height: 23px;
+    font-family: Arial, Helvetica, sans-serif; 
+}
+.comments-central-section ul li {
+    margin-bottom: 12px;
+    padding-bottom: 12px;
+    border-bottom: 1px dotted #CCC;
 }
 .login-container{
   padding-top: 100px;
