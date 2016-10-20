@@ -368,12 +368,12 @@ img {
     background: #87CEFA;
 }
 .topnav {
-    /*background: url("C:/Users/QUANPC/Downloads/Bootstrap/Bootstrap/Images/bg_top2_repeat.jpg") top no-repeat;*/
+    /*background: url("https://drive.google.com/file/d/0B2L0-j9jW-78WmZsWHAxMTJvcWM/view") top no-repeat;*/
    /*background-color: darkblue;
    color: white;*/
 }
 .title{
-    background: url("C:/Users/vmqua/Desktop/Bootstrap/Images/sidenav.jpg") top no-repeat;
+    background: url("sidenav.jpg") top no-repeat;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     height: 50px;
     width: 900px;
@@ -404,7 +404,7 @@ img {
     height: auto;
 }
 .thongtinbar{
-    background: url("C:/Users/vmqua/Desktop/Bootstrap/Images/sidenav.jpg") top no-repeat;
+    background: url("sidenav.jpg") top no-repeat;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     height: 50px;
     width: auto;
@@ -504,4 +504,67 @@ menu, ol, ul, li {
 /* When the input field gets focus, change its width to 100% */
 input[type=text]:focus {
     width: 100%;
+}
+.login-container{
+  padding-top: 100px;
+  padding-left: 420px;
+  padding-bottom: 400px;
+}
+table[Attributes Style] {
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    width: 100%;
+    border-spacing: 0px;
+}
+.loginmodule_table_dl {
+    BORDER-right: #93BAA5 1px solid;
+    BORDER-bottom: #93BAA5 1px solid;
+    BORDER-top: #93BAA5 1px solid;
+    BORDER-left: #93BAA5 1px solid;
+}
+tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+td, th {
+    display: table-cell;
+    vertical-align: inherit;
+}
+.loginmodule_table_Bottom_dl {
+    BORDER-bottom: #93BAA5 1px solid;
+}
+.loginmodule_header_dl {
+    COLOR: #000000;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    font-size: 11px;
+    font-family: tahoma;
+    height: 25px;
+    text-align: left;
+    padding-left: 5px;
+    background-color: #E7EFFF;
+}
+td[Attributes Style] {
+    text-align: -webkit-left;
+    vertical-align: bottom;
+}
+
+.button_dl {
+    BORDER-RIGHT: #86A0BA 1px solid;
+    BORDER-TOP: #86A0BA 1px solid;
+    BORDER-LEFT: #86A0BA 1px solid;
+    BORDER-BOTTOM: #86A0BA 1px solid;
+    FONT-SIZE: 11px;
+    background-color: #E7EFFF;
+    color: #336699;
+    padding-top: 3px;
 }
