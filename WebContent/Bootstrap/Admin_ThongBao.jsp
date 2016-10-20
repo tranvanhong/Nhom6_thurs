@@ -81,6 +81,7 @@
                                     <li><a href="Admin_QLTaiKhoan.jsp"><span class="glyphicon glyphicon-wrench"></span><strong> Quản Lý Tài Khoản</strong></a></li>
                                     <li><a href="Admin_QLTinNhan.jsp"><span class="glyphicon glyphicon-wrench"></span><strong> Quản Lý Tin Nhắn</strong></a></li>
                                     <li><a href="Admin_QLThongBao.jsp"><span class="glyphicon glyphicon-wrench"></span><strong> Quản Lý Thông Báo</strong></a></li>
+                                      <li><a href="Admin_DiemDanh.jsp"><span class="glyphicon glyphicon-wrench"></span><strong> Điểm Danh</strong></a></li>
 								</ul>
 							</nav>
 						</div>
