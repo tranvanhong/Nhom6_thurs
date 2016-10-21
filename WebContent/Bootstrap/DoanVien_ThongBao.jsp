@@ -134,7 +134,7 @@
 							                                <tr>
 								                                <td class="contentnews" colspan="2" align="right">
 									                                <img border="0" src="http://online.hcmute.edu.vn/images/icon-search.gif" width="11" height="11"> 
-									                                <a id="" class="chitiet" href="">Chi tiết</a>
+									                                <a id="" class="chitiet" href="DoanVien_ThongBao_ChiTiet.jsp">Chi tiết</a>
 									                            </td>
 							                                </tr>
 					                                	</tbody>
